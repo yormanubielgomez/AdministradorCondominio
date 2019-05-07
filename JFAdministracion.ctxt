@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=JFAdministracion
+comment1.params=
+comment1.target=JFAdministracion()
+comment2.params=evento
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3
